@@ -1,5 +1,5 @@
 # IKDAO Map App – Interactive Mapping and Navigational Map
-A Simple, Secure, Serving Map App alternative to many popular map services [https://map.ikdao,.org](https://map.ikdao.org)
+A Simple, Secure, Serving Map App alternative to many popular map services [https://map.ikdao.org](https://map.ikdao.org)
 
 ## About the App
 The IKDAO Map App is a web-based mapping application built using Leaflet.js, a powerful and lightweight JavaScript library for interactive maps. This app allows users to explore geographic locations, search places in real time, retrieve geolocation, and interact with objects on the map (such as buildings, rivers, and parks) to view their details.
